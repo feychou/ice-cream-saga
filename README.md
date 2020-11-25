@@ -13,7 +13,7 @@ Current topics:
 - [context](https://github.com/feychou/ice-cream-saga/tree/main/context/assignment)
 - [redux](https://github.com/feychou/ice-cream-saga/tree/main/redux/assignment) - solution still missing here
 
-## Install and run
+## Install and run :running:
 
 Each assignment and solution is runnable by navigating into the project and running 
 
