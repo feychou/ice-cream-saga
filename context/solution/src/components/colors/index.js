@@ -1,3 +1,3 @@
-import Colors from './Colors';
+import ColorList from "./ColorList";
 
-export default Colors;
+export default ColorList;

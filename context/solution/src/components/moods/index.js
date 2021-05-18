@@ -1,3 +1,3 @@
-import Moods from './Moods';
+import MoodList from './MoodList';
 
-export default Moods;
+export default MoodList;
